@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<h3>🎶 Vibing to</h3>
 <a href="https://github.com/xchetan-xD/Spotify-Readme">
-  <img src="https://xchetan.vercel.app/api" alt="Current Spotify Song">
+  <img src="https://xchetan.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
