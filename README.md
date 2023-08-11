@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/xchetan-xD/Spotify-Readme">
+  <img src="https://xchetan.vercel.app/api" alt="Current Spotify Song">
+</a>
