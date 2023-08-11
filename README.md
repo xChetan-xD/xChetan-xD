@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <h3>🎶 Vibing to</h3>
-<a href="https://github.com/xchetan-xD/Spotify-Readme">
+<a href="https://github.com/tthn0/Spotify-Readme">
   <img src="https://xchetan.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
