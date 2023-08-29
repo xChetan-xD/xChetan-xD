@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img src="https://xchetan.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
 </a>
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://spotify-readme-snowy-sigma.vercel.app/api" alt="Current Spotify Song">
+  <img src="https://spotify-readme-xchetan-xd.vercel.app/api" alt="Current Spotify Song">
 </a>
